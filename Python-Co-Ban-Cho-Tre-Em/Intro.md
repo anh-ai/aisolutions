@@ -13,7 +13,7 @@ II. Ý nghĩa:
 3. Kỹ năng quan trọng cho tương lai: Việc nắm vững Python sẽ giúp trẻ em chuẩn bị tốt hơn cho tương lai, vì ngôn ngữ này ngày càng trở nên phổ biến và được ứng dụng rộng rãi trong ngành công nghiệp.
 4. Khám phá toàn cầu: Python là một ngôn ngữ quốc tế và được sử dụng trên toàn thế giới. Khi học Python, trẻ em có cơ hội tiếp cận và làm việc với cộng đồng lập trình viên quốc tế, mở rộng tầm nhìn và kết nối với những người có cùng sở thích trên khắp thế giới.
 
-III. Lý do cần phải học Python cho trẻ em từ 6 đến 16 tuổi:
+III. Lý do cần phải học Python cho trẻ em:
 1. Dễ học: Python được thiết kế để đọc và viết dễ dàng, với cú pháp gần gũi với ngôn ngữ tự nhiên. Điều này giúp trẻ em nhanh chóng tiếp thu và thực hành các khái niệm lập trình cơ bản.
 2. Mở rộng khả năng sáng tạo: Python có nhiều thư viện và công cụ hỗ trợ cho việc tạo ra các ứng dụng, trò chơi và đồ họa. Trẻ em có thể thể hiện sự sáng tạo của mình thông qua việc tạo ra những dự án thú vị và cá nhân hóa.
 3. Học tập tích cực: Khi học Python, trẻ em phải tập trung, logic và kiên nhẫn. Qua việc giải quyết các bài toán lập trình, trẻ em học cách phân tích vấn đề và tìm ra giải pháp hiệu quả, từ đó phát triển tư duy logic và kiên nhẫn trong quá trình học tập.
