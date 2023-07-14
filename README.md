@@ -1,5 +1,5 @@
 # Aisolutions
-[Khoá học lập trình Python cơ bản cho trẻ em](https://github.com/anh-ai/aisolutions)
+[Khoá học lập trình Python cơ bản cho trẻ em](Python-Co-Ban-Cho-Tre-Em/Readme.md)
 
 
 
